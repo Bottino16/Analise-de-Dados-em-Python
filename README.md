@@ -39,7 +39,7 @@ Pré-requisitos: É necessário ter o Python instalado na sua máquina (versão 
 1. Clone o repositório
 
 Bash
-git clone [https://github.com/gustavocruzalbuquerque2909-boop/NOME-DO-SEU-REPOSITORIO.git](https://github.com/gustavocruzalbuquerque2909-boop/NOME-DO-SEU-REPOSITORIO.git)
+git clone https://github.com/Bottino16/Analise-de-Dados-em-Python.git
 cd NOME-DO-SEU-REPOSITORIO
 2. Crie e ative um ambiente virtual (Opcional, mas recomendado)
 
@@ -62,7 +62,7 @@ Bash
 streamlit run app.py
 O servidor será iniciado e o dashboard abrirá automaticamente no seu navegador padrão (geralmente em http://localhost:8501).
 
-Autor: Gustavo Chagas (Wallace Oliveira)
+Autor: Felipe Bottino (Wallace Oliveira)
 
 
 ### O que você pode personalizar depois:
